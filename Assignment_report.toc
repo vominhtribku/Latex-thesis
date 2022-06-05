@@ -1,0 +1,60 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Giới thiệu}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Tổng quan}{9}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Nhiệm vụ luận văn}{10}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Mục đích của luận văn}{10}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Nhiệm vụ của đề tài}{10}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Nội dung thực hiện}{10}{subsection.1.2.3}%
+\contentsline {chapter}{\numberline {2}Lý thuyết}{12}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Tổng quan về mạng cảm biến không dây}{12}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Giới thiệu mạng cảm biến không dây}{12}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Cấu trúc mạng cảm biến không dây}{14}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Ứng dụng của mạng cảm biến không dây}{17}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}Contiki OS — Hệ điều hành mã nguồn mở cho IoT}{22}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Application Layer}{23}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Transport Layer}{25}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Network \& Routing Layer}{26}{subsection.2.2.3}%
+\contentsline {subsubsection}{Giới thiệu về IPv6}{26}{section*.26}%
+\contentsline {subsubsection}{RPL - IPv6 Routing Protocol for Low-Power and Lossy Networks}{30}{section*.31}%
+\contentsline {subsection}{\numberline {2.2.4}Adaptation Layer}{35}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}MAC Layer}{42}{subsection.2.2.5}%
+\contentsline {subsubsection}{Trình điều khiển MAC}{42}{section*.42}%
+\contentsline {subsubsection}{Trình điều khiển RDC}{43}{section*.43}%
+\contentsline {subsubsection}{Trình điều khiển Framer}{43}{section*.44}%
+\contentsline {subsection}{\numberline {2.2.6}802.15.4 Physical Layer}{43}{subsection.2.2.6}%
+\contentsline {section}{\numberline {2.3}Bảo mật}{44}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Bảo mật trong mạng 6LoWPAN}{44}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Bảo mật trong giao thức MQTT}{46}{subsection.2.3.2}%
+\contentsline {subsubsection}{Xác thực MQTT với username/password}{46}{section*.48}%
+\contentsline {subsubsection}{TLS/SSL}{47}{section*.51}%
+\contentsline {chapter}{\numberline {3}Thiết kế và thực hiện phần cứng}{49}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Tổng quan hệ thống}{49}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Chi tiết các sensors và phần cứng liên quan}{50}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Module CC2538}{50}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}CC2538 usb dongle}{52}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Raspberry pi 4}{53}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Board E-Health}{55}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Thiết kế Firmware}{59}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Thiết kế và thực hiện phần mềm}{61}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Khối cảm biến}{61}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Khối border-router/gateway}{62}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Tunslip6}{62}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Hệ điều hành Raspbian}{62}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Khối ứng dụng}{63}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Bảo mật}{64}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Kết quả thực hiện}{66}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Kết quả truyền nhận trong mạng 6LoWPAN}{66}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Kết quả phần cứng}{67}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Khối cảm biến}{67}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Khối border-router/gateway}{68}{subsection.5.2.2}%
+\contentsline {section}{\numberline {5.3}Kết quả phần mềm}{69}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Khối cảm biến}{69}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Khối border-router/gateway}{70}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Khối ứng dụng}{71}{subsection.5.3.3}%
+\contentsline {chapter}{\numberline {6}Kết luận và hướng phát triển}{75}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Kết luận}{75}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Đánh giá}{75}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Hạn chế}{75}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Hướng phát triển}{75}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Phát triển phần cứng và firmware}{75}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Phát triển phần mềm}{76}{subsection.6.2.2}%
